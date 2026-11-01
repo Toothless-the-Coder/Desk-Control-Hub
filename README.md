@@ -1,5 +1,6 @@
 # Desk Control Hub
-A device that can control smart home gadgets and play spotify music. This will use lvgl libraries for a clean interface.
+A device that can control smart home gadgets and play spotify music. This will use lvgl libraries for a clean interface. This connects into govee home and spotify to be able to play music as well as control smart home devices. It uses a crowpanel because that was the best deal to get a display and esp32 all in one. I do however plan to replace the casing on the crowpanel with my custom designed casing. The control hub also has bluetooth capabilities so that it can play music directly to bluetooth speakers or earbuds without needing another device to be on and using cpu. I learned a lot about working with both spotify and govee api's for this project, they both proved very complex, but hopefully I got it in the end, we'll never really know until I build it though.
+
 <img width="946" height="727" alt="Screenshot 2026-10-30 213916" src="https://github.com/user-attachments/assets/22b93959-8944-47d7-92c7-70ad67c69567" />
 <img width="397" height="462" alt="Screenshot 2026-10-30 174209" src="https://github.com/user-attachments/assets/3a5d7280-b09d-42a2-b46e-ce329a72a8f4" />
 <img width="754" height="352" alt="Screenshot 2026-10-30 174040" src="https://github.com/user-attachments/assets/24abc621-fac2-426c-a957-755bccfb1e91" />
